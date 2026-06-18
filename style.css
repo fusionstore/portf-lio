@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(0, 0, 248);
+    font-family: Arial, sans-serif;
+}
+p {
+    font-size: 16px;
+}
+button {
+    font-style: #000000;
+}
